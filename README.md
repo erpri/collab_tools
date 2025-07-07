@@ -1,6 +1,6 @@
 ## Team Valency Matrix
 
-##### 1. Team Dynamics Measurement
+##### Team Dynamics Measurement
 ---
 
 Measuring Team Dynamics using Valency Matrix: [Read the full article](https://signaltosystem.substack.com/).
