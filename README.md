@@ -3,7 +3,7 @@
 ##### Team Dynamics Measurement
 ---
 
-Measuring Team Dynamics using Valency Matrix: [Read the full article](https://signaltosystem.substack.com/).
+Measuring Team Dynamics using Team Valency: [Read the full article](https://signaltosystem.substack.com/).
 
 
 Valency Heatmap:
